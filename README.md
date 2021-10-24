@@ -2,7 +2,7 @@
 
 ## Overview of Surfer Weather Analysis
 ### Purpose
-The purpose of this analysis is to extract data using advanced techniques in SQLite and other dictionaries to output organized complete dataframes.  The temperature for Oahu is derived from the Hawaii SQLite dataset, and is organized to give the surf shop owners  better picture about the surf and ice cream business year around. Our data is segmented by the months June and December, so that Surfs Up can analyze the seasonal polarities to determine if the business is sustainable all year. 
+The purpose of this analysis is to extract data using advanced techniques in SQLite and other dictionaries to output organized dataframes.  The temperature for Oahu is researched from the Hawaii SQLite dataset, and is organized to give the surf shop owners a better picture about the surf and ice cream business's sustainability. Our data is segmented by the months June and December, so that Surfs Up can analyze the seasonal polarities to determine if the business is sustainable all year. 
 
 ## Results
 - The data in June Temps shows higher average temperatures. There is also more temperature data counts in the month of June (1700).
